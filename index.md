@@ -1,3 +1,8 @@
+---
+title: プライバシーポリシー
+---
+# プライバシーポリシー
+
 本アプリケーションでは、以下のオープンソースパッケージを利用しています。<br>
 
 flutter — https://pub.dev/packages/flutter<br>
