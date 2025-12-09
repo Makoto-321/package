@@ -1,8 +1,3 @@
----
-title: 使用パッケージ
----
-# 使用パッケージ
-
 本アプリケーションでは、以下のオープンソースパッケージを利用しています。<br>
 
 flutter — https://pub.dev/packages/flutter<br>
