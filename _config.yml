@@ -1,5 +1,6 @@
 # Jekyll の最低限設定
 title:""
+header_pages: []
 
 # カスタム CSS を読み込む設定
 defaults:
