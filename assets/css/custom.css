@@ -1,0 +1,10 @@
+ol {
+  list-style-type: decimal !important;
+  counter-reset: item;
+  padding-left: 1.5em;
+}
+
+ol li {
+  display: list-item !important;
+  margin-bottom: 0.5em;
+}
